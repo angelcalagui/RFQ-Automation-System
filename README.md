@@ -39,5 +39,7 @@ Click PDF to export the generated supplier worksheets into PDF files. This allow
 **5. Clean Up Generated Sheets
 After the RFQs have been exported, click Delete to remove the generated supplier worksheets from the workbook while keeping the original template and monitoring data intact.**
 
+If you would like to access the original workbook, please contact me.
+
 ##
 <p align="center">NO RESISTANCE CAN DROP YOUR POTENTIAL​</p>
